@@ -1,4 +1,4 @@
-# Hi, Im West.💻
+# Hi, Im Fynn.💻
 ## I'm mainly focus on Web development and JS. 
 ## I sometimes use C based langs.
 ## ***also i like using italics because they look cool***
